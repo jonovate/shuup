@@ -59,7 +59,7 @@ python-dateutil==2.8.0
 pytoml==0.1.20
 pytz==2018.9
 requests==2.21.0
-secretstorage==2.3.1
+secretstorage==3.1.1
 simplejson==3.16.0
 six==1.11.0
 snowballstemmer==1.2.1
