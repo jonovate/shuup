@@ -55,7 +55,7 @@ pillow==5.4.1
 pycparser==2.19
 pygments==2.3.1
 pyjwt==1.7.1
-python-dateutil==2.7.5
+python-dateutil==2.8.0
 pytoml==0.1.20
 pytz==2018.7
 requests==2.20.1
