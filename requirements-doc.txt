@@ -37,7 +37,7 @@ easy-thumbnails==2.6
 entrypoints==0.3
 et-xmlfile==1.0.1
 factory-boy==2.11.1
-fake-factory==0.5.3
+fake-factory==9999.9.9
 idna==2.7
 imagesize==1.1.0
 itypes==1.1.0
